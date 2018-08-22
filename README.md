@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Bogie-Clj pages
 
-You can use the [editor on GitHub](https://github.com/bogie-clj/bogie-clj.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here you can get all information about the Bogie Clj Server and runtime. Here you will find details about the motivations and design and architecture of the Bogie Clj Server and runtime.
 
 ### Markdown
 
