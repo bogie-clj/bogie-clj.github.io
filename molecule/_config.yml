@@ -58,6 +58,7 @@ destination: docs
 exclude:
   - LICENSE
   - doc
+  - javadoc
   - package.json
   - package-lock.json
   - Gruntfile.js
