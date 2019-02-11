@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   installation tutorials, blueprints for developers, and more!
 
 baseurl: ""
-url: "https://bogie-clj.github.io/molecule"
+url: "https://bogie-clj.github.io"
 
 twitter_username: bogiecljmolecule
 github_username:  bogie_clj
