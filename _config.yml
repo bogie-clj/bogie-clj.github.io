@@ -1,3 +1,69 @@
-theme: jekyll-theme-minimal
-title: All about Bogie-clj
-description: Bogie-clj is a server runtime which provides developers with a unique programming model and is built on the Molecule Framework
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Molecule | Help
+email: vijayakumar.mohan@outlook.com
+description: >- # this means to ignore newlines until "baseurl:"
+  The help site for Molecule, the open source java framework with a unque programming model.
+  This site contains frequently asked questions, article to troubleshoot common issues,
+  installation tutorials, blueprints for developers, and more!
+
+baseurl: ""
+url: "https://bogie-clj.github.io/molecule"
+
+twitter_username: bogiecljmolecule
+github_username:  bogie_clj
+piwik: true
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Additional folders and collections
+include: ['_pages']
+collections:
+  faq:
+    category: nil
+    output: true
+    default:
+      layout: default
+  releases:
+    category: nil
+    output: true
+    default:
+      layout: default
+  roadmap:
+    category: nil
+    output: true
+    default:
+      layout: default
+
+destination: docs
+
+# Exclude from processing.
+exclude:
+  - LICENSE
+  - doc
+  - javadoc
+  - package.json
+  - package-lock.json
+  - Gruntfile.js
+  - node_modules
+  - Gemfile
+  - Gemfile.lock
+  - .idea/workspace.xml
+
