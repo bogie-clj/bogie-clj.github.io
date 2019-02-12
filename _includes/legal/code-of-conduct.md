@@ -1,6 +1,6 @@
 ## Code of conduct
 
-This Code of Conduct applies to all of us: Passbolt staff, contributors, maintainers and participants in any campaigns, projects, and communities under the Passbolt name.
+This Code of Conduct applies to all of us: Molecule contributors, maintainers and participants in any campaigns, projects, and communities under the Molecule name.
 
 We expect this Code of Conduct to be followed in any ticketing system, social network, forum, mailing list, IRC channel, wiki, web site, private correspondence, online and offline event or meeting.
 
@@ -12,7 +12,7 @@ We welcome contributions from everyone regardless of geographical location, age,
 
 We do not tolerate harassment of participants in any form. Personal attacks, hate speech, trolling, baiting, spamming, any intentional form of discrimination, unwelcome sexual attention or imagery, deliberate intimidation, physical threats, stalking or any other kind of bad behaviour will be dealt with decisively.
 
-Offenders will be temporarily or permanently banned from communicating through Passbolt's systems and events or otherwise penalised. These rules may be enforced at the discretion of Passbolt staff by removing issues, comments, blocking or reporting accounts and banning from online or public meetings. 
+Offenders will be temporarily or permanently banned from communicating through Molecule's systems and events or otherwise penalised. These rules may be enforced at the discretion of Molecule governance board by removing issues, comments, blocking or reporting accounts and banning from online or public meetings. 
 
 ## Interaction principles
 
@@ -38,9 +38,9 @@ learn and avoid repeating them.
 
 ## Handling issues
 
-If you are subject to or witness unacceptable behavior, or have any other concerns, please email us at <a href="mailto:contact@passbolt.com">contact@passbolt.com</a>
+If you are subject to or witness unacceptable behavior, or have any other concerns, please email us at blah blah...
 
 
 ## Date of Last Update
 
-This code of conduct was last updated on November 21st, 2017.
+This code of conduct was last updated on February 12th, 2019.

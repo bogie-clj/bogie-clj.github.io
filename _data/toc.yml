@@ -31,7 +31,7 @@
       icon: fa-group
       teaser: How to get started as a contributor
     - title: Feature requests
-      url: https://community.passbolt.com/c/backlog
+      url: https://github.com/bogie-clj/molecule/issues
       icon: fa-plus-circle
       teaser: Propose and vote for new ideas!
     - title: Github
